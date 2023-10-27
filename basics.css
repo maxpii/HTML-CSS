@@ -1,0 +1,21 @@
+.odd {
+
+    color: burlywood;
+
+}
+.even {
+    color:blue;
+}
+body {
+
+    background-color: black;
+
+}
+h1 {
+    color:white;
+}
+pre {
+
+    background-color: black;
+    color : aquamarine;
+}
